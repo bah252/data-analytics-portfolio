@@ -1,77 +1,62 @@
-# data-analytics-portfolio
-data analytics portfolio showcasing projects in Excel, SQL and Power BI
-# Barakat Akodu — Data Analytics Portfolio
+# Data Analytics Portfolio
 
-Welcome to my data analytics portfolio.
+## Hi, I'm Barakat 👋
 
-I am an aspiring Data Analyst with practical experience in Excel, SQL and Power BI. This portfolio showcases projects involving data cleaning, data analysis, SQL querying and data visualisation.
+I'm an aspiring Data Analyst with a background in Law and an interest in using data to support better business and financial decision-making.
 
-## Technical Skills
+I have developed practical experience working with Excel, SQL and Power BI through data analysis projects involving data cleaning, querying, analysis and visualisation.
 
-- **Excel:** Data cleaning, data transformation, formulas, lookups, Pivot Tables and analysis
-- **SQL:** Data querying, filtering, aggregation and conditional logic
-- **Power BI:** Dashboard development, DAX, data visualisation and performance analysis
+## 🛠️ Tools & Skills
 
-## Featured Projects
+- Microsoft Excel
+- SQL
+- Microsoft Power BI
+- Data Cleaning
+- Data Analysis
+- Data Visualisation
+- Dashboard Development
+- Business Intelligence
 
-### 1. Nigerian Sales Data Cleaning & Analysis — Excel
+## 📊 Projects
 
-Cleaned and transformed a 550-record Nigerian sales dataset, addressing missing and inconsistent entries across customer, product, location and sales fields.
+### 1. Nigerian Sales — Excel
 
-**Tools:** Microsoft Excel
+**Data cleaning and sales analysis using Microsoft Excel.**
 
-**Skills demonstrated:**
-- Data cleaning
-- Data transformation
-- Excel formulas
-- Data organisation
-- Sales analysis
+This project involved cleaning a 550-record Nigerian sales dataset, standardising data and preparing it for analysis.
+
+**Skills:** Excel · Data Cleaning · Data Transformation · Sales Analysis
 
 [View Project](./Nigerian-Sales-Excel)
 
 ---
 
-### 2. Nigerian Sales Data Query & Analysis — SQL
+### 2. Nigerian Sales — SQL
 
-Queried a Nigerian sales dataset using SQL to investigate transactions by location, product, customer and units sold.
+**Sales data analysis using SQL.**
 
-**Tools:** SQL
+This project uses SQL queries to explore sales performance, aggregate sales data and answer practical business questions.
 
-**Skills demonstrated:**
-- SELECT
-- WHERE
-- AND / OR
-- LIKE
-- IS NULL / IS NOT NULL
-- Aggregate functions
-- GROUP BY
-- HAVING
-- ORDER BY
+**Skills:** SQL · Data Aggregation · Data Filtering · Business Analysis
 
 [View Project](./Nigerian-Sales-SQL)
 
 ---
 
-### 3. Sales & Profit Performance Dashboard — Power BI
+### 3. Sales & Profit Dashboard — Power BI
 
-Developed an interactive Power BI dashboard to analyse sales and profitability across regions, states, categories and time periods.
+**Interactive business intelligence dashboard using Power BI.**
 
-**Tools:** Power BI, DAX
+This project transformed sales data into an interactive dashboard for analysing sales, profit, quarterly performance and product-level trends.
 
-**Skills demonstrated:**
-- Dashboard development
-- KPI analysis
-- Data visualisation
-- DAX measures
-- Time-based analysis
-- Sales and profit analysis
+**Skills:** Power BI · Data Transformation · Data Visualisation · Dashboard Development
 
 [View Project](./Sales-Profit-PowerBI)
 
----
+## 🎯 Currently Building
 
-## About Me
+I'm continuing to develop my data analytics skills through practical projects and expanding my knowledge of Excel, SQL and Power BI.
 
-I am building my career in data analytics, with a background in law and professional experience within the financial sector. My interest in data analytics developed through practical training and project-based work using Excel, SQL and Power BI.
+## 📫 Contact
 
-I am currently seeking opportunities to apply my analytical skills in a Data Analyst internship or entry-level role.
+- Email: barakatakodu24@gmail.com
