@@ -1,64 +1,60 @@
-# Nigerian Sales Dashboard & Analysis Using Power BI
+# Sales & Profit Dashboard — Power BI
 
 ## Overview
 
-This project involved transforming Nigerian sales data into an interactive Power BI dashboard to analyse sales and profit performance.
+This project involved transforming sales data into an interactive Power BI dashboard designed to analyse sales and profit performance.
 
-The dashboard was designed to present key business metrics and make sales trends easier to understand through interactive visualisations.
+The dashboard provides a visual overview of business performance and makes it easier to identify trends across different periods and products.
+
+## Dashboard Preview
+
+![Sales & Profit Dashboard](dashboard-preview.png)
 
 ## Objective
 
-The objective was to analyse sales performance and create an interactive dashboard that could help identify trends in revenue, profit and sales activity.
+The objective of this project was to analyse sales performance and develop an interactive dashboard that communicates key business metrics and trends clearly.
+
+## Key Metrics
+
+The dashboard presents key performance indicators including:
+
+- Total Sales
+- Total Profit
+- Sales Performance
+- Quarterly Sales
+- Product Performance
+
+## Analysis
+
+The dashboard was used to explore:
+
+- Sales trends over time
+- Quarterly sales performance
+- Product-level performance
+- Overall sales and profit performance
+- Patterns that could support business decision-making
 
 ## Tools Used
 
 - Microsoft Power BI
-
-## Dashboard Analysis
-
-The dashboard presents key sales metrics, including:
-
-- Total Sales
-- Total Profit
-- Sales by Year
-- Sales by Quarter
-- Product performance
-- Sales trends
-
-## Visualisations
-
-The dashboard uses visualisations to communicate:
-
-- Sales trends over time
-- Quarterly sales performance
-- Total sales performance
-- Total profit performance
-- Product-level performance
+- Power Query
+- Data Visualisation
 
 ## Skills Demonstrated
 
-- Data preparation
+- Data cleaning and preparation
+- Data transformation
 - Data visualisation
 - Dashboard development
 - Business intelligence
 - Sales analysis
-- Trend analysis
 - Data storytelling
 
-## Dataset
+## Project Files
 
-The project uses a Nigerian sales dataset containing 550 sales records and fields including:
-
-- Customer Name
-- State
-- Product
-- Units Sold
-- Unit Price
-- Total Sale
-- Sale Date
-- Sales Channel
-- Order ID
+- `first power bi work2.pbix` — Power BI dashboard file
+- `dashboard-preview.png` — Dashboard preview
 
 ## Key Learning
 
-This project strengthened my ability to transform raw sales data into an interactive dashboard and communicate business insights through visual analysis.
+This project strengthened my ability to transform raw business data into an interactive dashboard and communicate analytical findings through clear visualisations.
